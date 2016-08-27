@@ -1,0 +1,16 @@
+; FASM Editor
+
+include "Main.asm"
+
+if 2 * 2 = 5
+[options]
+  countAsm=1
+  countInc=4
+[asm]
+  asm1="Main.asm"
+[inc]
+  inc1="IO.inc"
+  inc2="Interrupts.inc"
+  inc3="MSR.inc"
+  inc4="SystemRegisters.inc"
+end if
