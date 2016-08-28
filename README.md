@@ -17,7 +17,7 @@
 Для просмотра отладочного вывода: [DebugView](https://technet.microsoft.com/ru-ru/sysinternals/bb896647.aspx).  
 Для проверки работоспособности и отладки: [VMware Player](http://www.vmware.com/products/player/playerpro-evaluation.html)  
   
-Обёртка для Delphi: [Здесь](https://gist.github.com/HoShiMin/6a333d1c8a24f183073e)  
+Обёртка для Delphi: [Здесь](https://gist.github.com/HoShiMin/f5b1f069e2c177d48033ed1eeb90cea0)  
 Последний релиз (подписанные бинарники x86/x64): [Здесь](https://github.com/HoShiMin/EnjoyTheRing0/releases)  
   
 Отключение проверки цифровой подписи и перевод в Windows в тестовый режим:  
